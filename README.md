@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PragyaSundaram
 - 👀 I’m interested in webdevelopment
-- 🌱 I’m currently learning front end development
+- 🌱 I’m currently learning j.react and DSA(c++)
 - 💞️ I’m looking to collaborate on anything related to my area or more
 - 📫 How to reach me sundarampragya@gmail.com
 
